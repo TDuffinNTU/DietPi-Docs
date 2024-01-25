@@ -365,6 +365,7 @@ MPD
 MPL
 MQTT
 MTA
+mtime
 multiroom
 multithreaded
 multithreading
@@ -751,6 +752,7 @@ WordPress
 WPA
 writeable
 WSAD
+WSDD
 www
 Xfce
 XFS
